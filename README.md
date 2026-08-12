@@ -28,4 +28,3 @@ https://its-abolfazl.site
 Contact:
 abolfazl20201010@gmail.com
 
-📧 ایمیلت
