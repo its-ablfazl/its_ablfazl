@@ -1,20 +1,31 @@
-# Hi, I'm Abolfazl 👋
+Hi, I'm Abolfazl 👋
+Web Developer
 
-## WordPress Developer
+I build responsive websites, web applications, and practical web solutions.
 
-I build modern WordPress websites using Elementor and WooCommerce.
+Skills
+WordPress
+Elementor
+WooCommerce
+HTML
+CSS
+JavaScript
+PHP
+Python
+Git & GitHub
+What I Do
+🌐 Website Development
+🎨 Frontend Development
+🐘 PHP Development
+🐍 Python & Automation
+🛒 WooCommerce
+⚡ Website Optimization
+Portfolio
 
-### Skills
-- WordPress
-- Elementor
-- WooCommerce
-- PHP
-- HTML
-- CSS
-- JavaScript
-- Website Speed Optimization
-- Bug Fixing
-- Website Migration
+🌐 WebCraft:
+https://its-abolfazl.site
 
-### Currently
-🚀 Looking for freelance opportunities.
+Contact:
+abolfazl20201010@gmail.com
+
+📧 ایمیلت
